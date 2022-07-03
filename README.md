@@ -9,6 +9,7 @@ I am an IT student developing free software in my free time.
 ## My current projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antimicrox&repo=antimicrox&theme=github_dark)](https://github.com/antimicrox/antimicrox)
+<img src="https://raw.githubusercontent.com/AntiMicroX/antimicrox/master/src/images/antimicrox.png" alt="Icon" width="150"/>
 
 This is my main project for now.  
 I deal with development and regular maintienance of this project. This is developed under [AntiMicroX organization](https://github.com/antiMicroX/).
