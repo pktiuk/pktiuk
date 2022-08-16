@@ -5,6 +5,7 @@
 I am an IT student developing free software in my free time.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pktiuk&show_icons=true&theme=github_dark)
+<!-- [![vercel trophy](https://github-profile-trophy.vercel.app/?username=pktiuk&theme=darkhub&title=MultiLanguage,PullRequest,Commits,Commits,Issues)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ## My current projects
 
@@ -12,7 +13,7 @@ I am an IT student developing free software in my free time.
 <img src="https://raw.githubusercontent.com/AntiMicroX/antimicrox/master/src/images/antimicrox.png" alt="Icon" width="150"/>
 
 This is my main project for now.  
-I deal with development and regular maintienance and management of this project using GitHub. This is developed under [AntiMicroX organization](https://github.com/antiMicroX/).
+I deal with development, regular maintienance and management of this project using GitHub. This is developed under [AntiMicroX organization](https://github.com/antiMicroX/).
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
