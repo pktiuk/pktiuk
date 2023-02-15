@@ -2,7 +2,7 @@
 </h1>
 <h3 align="center">Welcome on my profile
 </h3>
-I am an IT student developing free software in my free time.
+Software developer developing FOSS in spare time. Big fan of Linux 🐧
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pktiuk&show_icons=true&theme=github_dark)
 <!-- [![vercel trophy](https://github-profile-trophy.vercel.app/?username=pktiuk&theme=darkhub&title=MultiLanguage,PullRequest,Commits,Commits,Issues)](https://github.com/ryo-ma/github-profile-trophy) -->
