@@ -5,9 +5,8 @@
 Software developer developing FOSS in spare time. Big fan of Linux 🐧  
 I like throwing Pull Requests at random repos. :)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pktiuk&show_icons=true&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pktiuk&show_icons=true&theme=github_dark) [![GitHub Streak](https://streak-stats.demolab.com?user=pktiuk&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 <!-- [![vercel trophy](https://github-profile-trophy.vercel.app/?username=pktiuk&theme=darkhub&title=MultiLanguage,PullRequest,Commits,Commits,Issues)](https://github.com/ryo-ma/github-profile-trophy) -->
-
 ## My current projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antimicrox&repo=antimicrox&theme=github_dark)](https://github.com/antimicrox/antimicrox)
